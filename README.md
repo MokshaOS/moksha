@@ -5,7 +5,7 @@ Moksha Operating System is a 16 – bit Operating System developed in Assembly L
 Primary purpose of **Moksha Operating System** as project is for making the learning curve better for those who are very eager, passionate, enthusiastic, and have zeal about knowing how their computers works with micro processor internally via [BIOS (Basic Input/Output System)](http://en.wikipedia.org/wiki/BIOS).
 
 ## Development
-This project was privately developed by developed by [Surya Tripathi](https://github.com/suryart) and [Hemendra Singh](https://github.com/HemendraSingh) as a major project during their engineering college life around 2008.
+This project was privately developed by [Surya Tripathi](https://github.com/suryart) and [Hemendra Singh](https://github.com/HemendraSingh) as a major project during their engineering college life around 2008.
 
 ## License
 Copyright (c) 2013 [Surya Tripathi](https://github.com/suryart) and [Hemendra Singh](https://github.com/HemendraSingh), released under the New BSD License.
